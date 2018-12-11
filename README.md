@@ -22,7 +22,7 @@ We create machine learning algorithm to count cells in the microscopy photo
 - click „Next: Featured Plugins”
 - click „Start using PyCharm”
 
-While opening the PyCharm:
+While opening PyCharm:
 - choose „Check out Version Control”
 - „Git” 
 - log in to GitHub and paste https://github.com/skn-biology/cell_counting.git
