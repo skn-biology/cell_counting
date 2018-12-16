@@ -1,2 +1,2 @@
-# cell_counting
-We create machine learning algorithm to count cells in the microscopy photo
+# Cell counting
+Cell counting is any of various methods for the counting or similar quantification of cells in the life sciences, including medical diagnosis and treatment. It is an important subset of cytometry, with applications in research and clinical practice. Our aim is to create a machine learning algorithm in order to develop an application to count cells in the easiest possible way using simple microscopy and mobile phone. There are numerous procedures in biology and medicine requiring the counting of cells therefore, creating such a tool would help to improve work in the laboratory
