@@ -1,0 +1,1 @@
+#to jest przykładowy plik do pisania kodu
