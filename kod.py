@@ -1,1 +1,4 @@
-#to jest przykładowy plik do pisania kodu
+from path import Path
+a = Path(__file__).parent/"microscopy_photos"/"drosophila_melanogaster"
+
+print(a.files())
